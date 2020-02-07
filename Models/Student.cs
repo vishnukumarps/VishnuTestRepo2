@@ -14,5 +14,6 @@ namespace DemoProject.Models
         public string  Dob2 { get; set; }
         public long  EditedTime { get; set; }
 
+        public string M2 { get; set; }
     }
 }
