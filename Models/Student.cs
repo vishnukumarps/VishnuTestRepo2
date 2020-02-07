@@ -13,6 +13,8 @@ namespace DemoProject.Models
         public DateTime  Dob { get; set; }
         public string  Dob2 { get; set; }
         public long  EditedTime { get; set; }
+        public int TotalMark { get; set; }
+        public string Remark  { get; set; }
 
     }
 }
