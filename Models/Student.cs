@@ -16,6 +16,6 @@ namespace DemoProject.Models
         public int TotalMark { get; set; }
         public string Remark  { get; set; }
 
-        public string M2 { get; set; }
+        public string M23 { get; set; }
     }
 }
